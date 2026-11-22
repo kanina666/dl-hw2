@@ -1,0 +1,8 @@
+/.venv/
+/data/
+/runs/
+/runs_hw2/
+/*.pt
+/artifacts/best.onnx
+/artifacts/bonus_metrics.json
+/artifacts/provenance.json
